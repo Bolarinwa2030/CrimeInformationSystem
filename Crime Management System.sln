@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crime Management System", "Crime Management System\Crime Management System.csproj", "{0CB6ACC2-54EB-474F-9441-0D549860B47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB6ACC2-54EB-474F-9441-0D549860B47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB6ACC2-54EB-474F-9441-0D549860B47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB6ACC2-54EB-474F-9441-0D549860B47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB6ACC2-54EB-474F-9441-0D549860B47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B083978A-29C8-4EFC-80F3-8AEE1B29B298}
+	EndGlobalSection
+EndGlobal

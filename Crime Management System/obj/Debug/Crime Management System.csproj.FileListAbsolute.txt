@@ -1,0 +1,17 @@
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\bin\Debug\Crime Management System.exe.config
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\bin\Debug\Crime Management System.exe
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\bin\Debug\Crime Management System.pdb
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\bin\Debug\Guna.UI2.dll
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime Management System.csproj.AssemblyReference.cache
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime_Management_System.Crime_Registration.resources
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime_Management_System.Form1.resources
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime_Management_System.Properties.Resources.resources
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime Management System.csproj.GenerateResource.cache
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime Management System.csproj.CoreCompileInputs.cache
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime Management System.csproj.CopyComplete
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime Management System.exe
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime Management System.pdb
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime_Management_System.View_Criminal_List.resources
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime_Management_System.Open_Complaint.resources
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime_Management_System.Crime_Details.resources
+C:\Users\B.G.SKILLZ\source\repos\Crime Management System\Crime Management System\obj\Debug\Crime Management System.csproj.SuggestedBindingRedirects.cache
